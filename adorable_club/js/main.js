@@ -27,6 +27,7 @@ $(function(){
 		easing: 'swing',
 		minSlides: 1,
 		maxSlides: 3,
+		mode: 'fade',
 		moveSlides: 1,
 		slideWidth: 500,
 		slideMargin: 20

@@ -149,6 +149,7 @@ div#sliderWrap{
 	overflow: hidden;
 }
 ul#slider{
+	width: 600px;
 	position: relative;
 	left: 50%;
 	float: left;
@@ -166,6 +167,7 @@ ul#slider li img{
 	height: 500px;
 	object-fit: cover;
 }
+
 
 /*
 	footer用
